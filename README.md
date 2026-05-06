@@ -21,11 +21,11 @@ Tela de entrada com identidade visual moderna, contendo o título "Report Financ
 
 ### 2. Sales Report (Principal)
 Painel gerencial de alto nível com KPIs resumidos. Utiliza indicadores (Bookmarks) para alternar dinamicamente entre visuais de Barras e Pizza, e entre Treemap e Mapa no mesmo espaço de tela.
-![Principal](./imagens/Principal.PNG)
+![Principal](./imagens/Principal(A).PNG)
 
 ### 3. Detalhes (Report de Lucro Detalhado)
 Página voltada para o aprofundamento analítico, apresentando o detalhamento em matriz por trimestre e ano, além de um histograma focado na distribuição de unidades vendidas.
-![Detalhes](./imagens/Detalhes.PNG)
+![Detalhes](./imagens/Detalhes(A).PNG)
 
 ### 4. Report de Performance (Data Analytics)
 Focado em correlações, exibe a relação entre volume de unidades e faturamento mensal, além de destacar os rankings de TOP 5 meses e TOP 3 países.
@@ -44,7 +44,7 @@ Esta página foi desenvolvida seguindo as regras de **Storytelling**, proporcion
 *   **Dimensões Dinâmicas**: Alternância entre Product, Country e Segment.
 *   **Métricas On-Demand**: Escolha entre Total Lucro, Total Units Sold e Total Vendas.
 *   **Narrativa de Dados**: Container dedicado com insights que guiam o gestor na identificação de distorções entre volume operacional e rentabilidade real.
-![Simulação Estratégica](./imagens/Simulacao.PNG)
+![Simulação Estratégica](./imagens/SimulacaoEstrategica.PNG)
 
 ---
 
