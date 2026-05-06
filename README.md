@@ -1,6 +1,6 @@
 # Projeto de Data Analytics - Dashboard Financeiro com Power BI
 
-![Home Page](./imagens/HomePage.jpg)
+![Home Page](./imagens/HomePage.PNG)
 
 ## 📌 Sobre o Projeto
 Este repositório contém um projeto de portfólio focado na criação de um relatório financeiro interativo e estratégico. O desenvolvimento foi guiado por requisitos técnicos rigorosos, com atenção especial à experiência do usuário (UX), hierarquia visual e storytelling de dados.
